@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DHRUV0809
+- 👋 Hi, I’m DHRUV SHARMA
 - 👀 I’m interested in MACHINE LEARNING , DESIGNING , AND ROBOTICS.
 - 🌱 I’m currently learning PYTHON, HTML, CSS, ARDUINO, UI/UX DESIGNING
 - 💞️ I’m looking to collaborate on MACHINE LEARNING AND DESIGNING PROJECTS
